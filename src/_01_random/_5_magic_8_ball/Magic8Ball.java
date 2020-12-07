@@ -39,6 +39,7 @@ public class Magic8Ball {
 		JOptionPane.showMessageDialog(null, "Yes"); }
 	
 	// 6. If the random number is 2
+	 
 
 	// -- tell the user "Maybe you should ask Google?"
 		
