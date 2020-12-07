@@ -29,21 +29,28 @@ public class Magic8Ball {
 	// 4. If the random number is 0
 	// -- tell the user "Yes"
 
-	if (ranNumber == 0) {
-	JOptionPane.showMessageDialog(null, "Yes");
+	 if (ranNumber == 0) {
+	JOptionPane.showMessageDialog(null, "Yes"); }
 	
 	// 5. If the random number is 1
-
 	// -- tell the user "No"
 
+	else if (ranNumber == 0) {
+		JOptionPane.showMessageDialog(null, "Yes"); }
+	
 	// 6. If the random number is 2
 
 	// -- tell the user "Maybe you should ask Google?"
+		
+		else if (ranNumber == 0) {
+			JOptionPane.showMessageDialog(null, "Yes"); }
 
 	// 7. If the random number is 3
 
 	// -- write your own answer
+			
+	if (ranNumber == 0) {
+				JOptionPane.showMessageDialog(null, "Yes");}
 
-}
 }
 }
